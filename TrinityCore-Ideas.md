@@ -11,7 +11,7 @@
 - [ ] list tokens
 - [ ] ainfo
 - [ ] loot
-- [ ] mod xp
+- [ ] mod xp - In Progress
 - [ ] lookup friendlist
 - [ ] guild log <bank/event>
 - [ ] arena session change
