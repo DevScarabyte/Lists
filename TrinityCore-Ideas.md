@@ -10,8 +10,8 @@
 - [ ] gdump
 - [ ] list tokens
 - [ ] ainfo
-- [ ] loot
-- [ ] mod xp - In Progress
+- [ ] **loot**
+- [X] mod xp
 - [ ] lookup friendlist
 - [ ] guild log <bank/event>
 - [ ] arena session change
