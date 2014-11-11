@@ -10,9 +10,9 @@
 - [ ] gdump
 - [ ] list tokens
 - [ ] ainfo
-- [ ] **loot**
-- [X] mod xp
-- [ ] lookup friendlist
+- [ ] *loot*
+- [X] *mod xp*
+- [ ] *lookup friendlist*
 - [ ] guild log <bank/event>
 - [ ] arena session change
 - [ ] lookup player onlineip
